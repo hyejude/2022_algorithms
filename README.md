@@ -12,21 +12,26 @@
 
 ## about GIT
 
-    * Github 토큰
-    - https://hoohaha.tistory.com/37
+##### Github 토큰
+- https://hoohaha.tistory.com/37
 
-    * Github 업로드 개요
-    - https://victorydntmd.tistory.com/53
+##### Github 업로드 개요
+- https://victorydntmd.tistory.com/53
 
-    * Github-Eclipse
-    - 연동 https://ddururiiiiiii.tistory.com/47
+#####  Github-Eclipse
+###### 연동
+ - https://ddururiiiiiii.tistory.com/47
 
-    * Github-VSCode
-    - [rejected] master -> master (fetch first) 에러 --> (기존 데이터 손실 경고) git push origin +master
-    https://donggu1105.tistory.com/104
+#####  Github-VSCode
+- [rejected] master -> master (fetch first) Error https://donggu1105.tistory.com/104
+    ```
+    (기존 데이터 손실 경고) git push origin +master
+    ```
 
-    - cannot open git-upload-pack 에러 --> (SSL 보안) SSL 보안 증명 방식 false 
-    https://gabrielyj.tistory.com/180
-
-    * READMD.md
-    - https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+- cannot open git-upload-pack Error 
+https://gabrielyj.tistory.com/180
+     ```
+    (SSL 보안) SSL 보안 증명 방식 false 
+    ```
+#####  READMD.md
+- https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
